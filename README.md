@@ -33,6 +33,14 @@
   <td>FFmpeg</td>
   <td>⭐⭐</td>
 </tr>
+  <tr>
+  <td>MySQL</td>
+  <td>⭐</td>
+</tr>
+<tr>
+  <td>Redis</td>
+  <td>⭐</td>
+</tr>
 </table>
 
 ![](https://github-readme-stats.vercel.app/api?username=liangzuoting&count_private=true&show_icons=true)
