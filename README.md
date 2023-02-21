@@ -1,9 +1,15 @@
-![](https://github-readme-stats.vercel.app/api?username=liangzuoting&count_private=true&show_icons=true)
+### 愿病毒一去不复返
 
-![](https://img.shields.io/badge/Python-blue)
-![](https://img.shields.io/badge/Sanic-blue)
-![](https://img.shields.io/badge/Javascript-yellow)
-![](https://img.shields.io/badge/React-yellow)
-![](https://img.shields.io/badge/CPP-blue)
-![](https://img.shields.io/badge/Qt-blue)
-![](https://img.shields.io/badge/FFmpeg-blue)
+现居广州，某互联网公司任职高级软件工程师。
+
+客户端开发出身，逐渐失去兴趣。现在转岗服务端开发，对前端开发尤其是 React 技术栈也同样感兴趣。
+
+技能点：
+
++ C++: ⭐⭐⭐⭐
++ Qt: ⭐⭐⭐⭐
++ Python: ⭐⭐⭐
++ React: ⭐⭐⭐
++ FFmpeg: ⭐⭐
+
+![](https://github-readme-stats.vercel.app/api?username=liangzuoting&count_private=true&show_icons=true)
