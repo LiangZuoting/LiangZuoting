@@ -6,10 +6,10 @@
 
 技能点：
 
-+ C++: ⭐⭐⭐⭐
-+ Qt: ⭐⭐⭐⭐
-+ Python: ⭐⭐⭐
-+ React: ⭐⭐⭐
-+ FFmpeg: ⭐⭐
++ C++:        ⭐⭐⭐⭐
++ Qt:         ⭐⭐⭐⭐
++ Python:     ⭐⭐⭐
++ React:      ⭐⭐⭐
++ FFmpeg:     ⭐⭐
 
 ![](https://github-readme-stats.vercel.app/api?username=liangzuoting&count_private=true&show_icons=true)
