@@ -15,11 +15,11 @@
 </tr>
 <tr>
   <td>Python</td>
-  <td>⭐⭐⭐</td>
+  <td>⭐⭐⭐⭐</td>
 </tr>
 <tr>
   <td>Sanic</td>
-  <td>⭐⭐⭐</td>
+  <td>⭐⭐⭐⭐</td>
 </tr>
 <tr>
   <td>Javascript</td>
@@ -29,17 +29,17 @@
   <td>React</td>
   <td>⭐⭐⭐</td>
 </tr>
-<tr>
-  <td>FFmpeg</td>
-  <td>⭐⭐</td>
-</tr>
-  <tr>
+    <tr>
   <td>MySQL</td>
-  <td>⭐</td>
+  <td>⭐⭐⭐</td>
 </tr>
 <tr>
   <td>Redis</td>
-  <td>⭐</td>
+  <td>⭐⭐⭐</td>
+</tr>
+<tr>
+  <td>FFmpeg</td>
+  <td>⭐⭐⭐</td>
 </tr>
 </table>
 
